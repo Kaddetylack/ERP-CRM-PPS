@@ -1,9 +1,9 @@
 ERP-CRM-PPS
 ===========
 
-ERP -> Enterprise-Resource-Planning
-CRM -> Customer-Relationship-Management
-PPS -> Production-Planning-System
+* ERP -> Enterprise-Resource-Planning
+* CRM -> Customer-Relationship-Management
+* PPS -> Production-Planning-System
 
 This Programm designed multilanguage under Visual Basic 6.0
 
